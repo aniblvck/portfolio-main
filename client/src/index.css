@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body, html{
+  overflow-x: hidden;
+  background-color: #0F151A;
+  margin: 0;
+  padding: 0;
+}
+
+
+

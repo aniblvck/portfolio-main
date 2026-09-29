@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="pg" cx="35%" cy="25%" r="95%">
+      <stop offset="0%" stop-color="#22394f"/>
+      <stop offset="100%" stop-color="#0F151A"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#pg)"/>
+  <circle cx="200" cy="200" r="170" fill="none" stroke="#4aa8ff" stroke-opacity="0.35" stroke-width="2"/>
+  <circle cx="200" cy="200" r="140" fill="none" stroke="#4aa8ff" stroke-opacity="0.18" stroke-width="1.5"/>
+  <text x="200" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="120" font-weight="700" fill="#FFFFFF">AK</text>
+</svg>
